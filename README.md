@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS , CP , Maths , 
 - 🌱 I’m currently studying CS @AUC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : koussayjaballah01@gmail.com | Facebook : koussay jaballah 
+- 📫 How to reach me : koussayjaballah01@gmail.com
 
 <!---
 koussay0/koussay0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
