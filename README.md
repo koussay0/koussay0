@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Open-source, help, opportunities**
+- 💬 Ask me about **coding challenges, programming, projects**
 
 - 📫 How to reach me **koussayjaballah01@gmail.com**
 
